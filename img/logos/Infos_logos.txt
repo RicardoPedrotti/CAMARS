@@ -1,0 +1,3 @@
+Logo Simples: 1000px x 1000px
+Logo Nome: 1200px x 1200px
+Logo Nome Horizontal: 3600px x 1000px

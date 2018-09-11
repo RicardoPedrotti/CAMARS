@@ -1,0 +1,280 @@
+imagem: aperto_mao
+<a href="https://br.freepik.com/fotos-vetores-gratis/cartao-de-visita">Cartão de visita fotografia desenhado por Jcomp - Freepik.com</a>
+
+
+
+
+
+------------------------------ CÓDIGO DE PORTFOLIO --------------------------------
+  <section class="p-0" id="entenda"> <!-- ############## ENTENDA ############## -->
+      <div class="container-fluid p-0">
+        <div class="row no-gutters popup-gallery">
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
+              <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Project Name
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    -------------------------------------- FIM PORTFOLIO --------------------------------------------------------
+    
+    
+    
+    <div id="recursos" class="et_pb_section  et_pb_section_2 et_pb_with_background et_section_regular"><div class=" et_pb_row et_pb_row_2"><div class="et_pb_column et_pb_column_4_4  et_pb_column_3"><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_1"><h1>Por que nos escolher?</h1></div></div></div><div class=" et_pb_row et_pb_row_3"><div class="et_pb_column et_pb_column_1_2  et_pb_column_4"><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_2 et_pb_blurb_position_left"><div class="et_pb_blurb_content"><div class="et_pb_main_blurb_image"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #dd3333;">w</span></div><div class="et_pb_blurb_container"><h4>MELHOR SUPORTE</h4><p>Atendimento todos os dias da semana. Você tem suporte sempre que precisar, estamos pronto para ajudar.</p></div></div></div><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_3 et_pb_blurb_position_left"><div class="et_pb_blurb_content"><div class="et_pb_main_blurb_image"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #dd3333;">R</span></div><div class="et_pb_blurb_container"><h4>TESTE GRATUÍTO</h4><p>Aqui você tem a oportunidade de testar nosso serviço. Mais segurança e confiança antes de você adquirir seu produto.</p></div></div></div></div><div class="et_pb_column et_pb_column_1_2  et_pb_column_5"><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_4 et_pb_blurb_position_left"><div class="et_pb_blurb_content"><div class="et_pb_main_blurb_image"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #dd3333;"></span></div><div class="et_pb_blurb_container"><h4>EXPERIÊNCIA COM IPTV</h4><p>Temos ampla experiência com IPTV o que nos permite te ajudar na resolução de problemas com mais facilidade.</p></div></div></div><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_blurb_5 et_pb_blurb_position_left"><div class="et_pb_blurb_content"><div class="et_pb_main_blurb_image"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #dd3333;"></span></div><div class="et_pb_blurb_container"><h4>O MELHOR CONTEÚDO</h4><p>Nosso conteúdo é atualizado semanalmente para que você sempre tenha novidades na sua lista iptv.</p></div></div></div></div></div></div>
+    
+    
+    element.style {
+}
+.et_pb_section_2.et_pb_section {
+    background-color: #f7f7f7!important;
+}
+.et_pb_section {
+    background-color: #fff;
+}
+@media (max-width: 980px)
+.et_pb_section {
+    padding: 50px 0;
+}
+.et_pb_section {
+    position: relative;
+    background-color: #fff;
+}
+.et_pb_slider .et_pb_slide, .et_pb_section {
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: 100%;
+    -moz-background-size: cover;
+    background-size: 100%;
+    background-size: cover;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body, input, textarea, select {
+    font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+}
+body {
+    color: #666;
+    background-color: #fff;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.7em;
+}
+body {
+    line-height: 1;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+
+
+#################################   FOOTER XP ##############################################
+
+<footer class="footer">
+    <div class="wrap"><a href="#page-top" id="logo-footer"></a>
+        <div class="column">
+            <ul>
+                <li>
+                    <h6>Sobre o CAMARS</h6>
+                </li>
+                <li><a href="#quem-somos">Quem Somos</a></li>
+                <li><a href="#como-funciona">Como funciona</a></li>
+                <li><a href="#carreiras">Carreiras</a></li>
+            </ul>
+        </div>
+        <div class="column">
+            <ul>
+                <li>
+                    <h6>Entenda Mais</h6>
+                </li>
+                <li><a href="#preços">Nossos Preços</a></li>
+                <li><a href="https://blog.xpi.com.br">Blog CAMARS</a></li>
+                <li><a href="https://www.xpi.com.br/atendimento.aspx">Dúvidas Frequentes</a></li>
+            </ul>
+        </div>  
+        <div class="column">
+            <ul class="footer-list" role="menu">
+                <li>
+                    <h6>Contato</h6>
+                </li>
+                <li><strong>Atendimento</strong></li>
+                <li>
+                    <p>Capitais e regiões metropolitanas</p>4003-3710
+                </li>
+                <li>
+                    <p>Demais localidades</p>0800-880-3710
+                </li>
+                <li>
+                    <p>Para clientes no exterior</p>55-11-4935-2701
+                </li>
+                <li>
+                    <p>Deficientes auditivos ou de fala (todas as localidades)</p>0800-771-0101<br>
+                </li>
+                <li><strong>Reclamações</strong>
+                    <p>SAC: 0800-772-0202</p>
+                </li>
+                <li><strong>Se não estiver satisfeito:</strong>
+                    <p>Ouvidoria: 0800-722-3710</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</footer>
