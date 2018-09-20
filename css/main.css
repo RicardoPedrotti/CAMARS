@@ -30,7 +30,7 @@ body {
 #mainNav .logo-menu {
     width: 277px;
     height: 77px;
-    background-image: url(../img/logos/logo-nome_branco_H.png);
+    background-image: url(../img/logos/logo-nome_branco_H2.png);
     background-size: contain;
     background-repeat: no-repeat;
     align-content: center;
@@ -132,11 +132,21 @@ img::-moz-selection {
 
 #mainNav {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-    background-color: #fff;
+    background-color: transparent;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s;
+}
+
+#navbarResponsive.show{
+    background-color: rgba(1000, 1000, 1000, 0.9);
+} /*Mostrando o Menu em modo celular*/
+
+
+#mainNav.navbar-shrink {
+    border-bottom: 1px solid rgba(33, 37, 41, 0.1);
+    background-color: #EFEFEF;
 }
 
 #mainNav .navbar-brand {
@@ -149,10 +159,6 @@ img::-moz-selection {
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
     color: #00838F;
-}
-
-#menu-principal .nav-item {
-    color: red;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -171,7 +177,8 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-    color: yellow;
+    color: #FF9800;
+    /* Cor ITENS MENU em modo celular e hover*/
     /* COR ANIMACAO NAVEGACAO*/
     background-color: transparent;
 }
@@ -202,7 +209,8 @@ img::-moz-selection {
 
     #mainNav .navbar-nav > li.nav-item > a.nav-link,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: #EFEFEF ; /* COR ITENS MENU START e NAO RESPONSIVO*/
+        color: #EFEFEF;
+        /* COR ITENS MENU START e NAO RESPONSIVO*/
     }
 
     #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
@@ -402,12 +410,12 @@ footer {
     font-size: 12px;
 }
 
-#logo-footer{
+#logo-footer {
     width: 100px;
     height: 100px;
 }
 
-#logo-footer .rights{
+#logo-footer .rights {
     display: inline;
 }
 
