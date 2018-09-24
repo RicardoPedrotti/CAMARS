@@ -30,7 +30,7 @@ body {
 #mainNav .logo-menu {
     width: 277px;
     height: 77px;
-    background-image: url(../img/logos/logo-nome_branco_H2.png);
+    background-image: url(../img/logos/Branco/Branco.png);
     background-size: contain;
     background-repeat: no-repeat;
     align-content: center;
@@ -39,7 +39,7 @@ body {
 #mainNav.navbar-shrink .logo-menu {
     width: 180px;
     height: 50px;
-    background-image: url(../img/logos/logo-nome_original_H.png);
+    background-image: url(../img/logos/Colorido/Original-Simples-Horizontal.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
