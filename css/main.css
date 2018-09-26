@@ -501,5 +501,61 @@ footer.pr-xl-4 {
     background-color: whitesmoke; /* Add a dark-grey background on hover */
 }
 
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#meu_caso div {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#servicos{
+    padding-top: 50px;
+}
+
+#meu_caso{
+    padding: 20px;
+}
+
+#meu_caso label{
+    float: left;
+    color: #00838F;
+}
+
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
 /*Laranja: #FF9800
-Azul: 00838F*/
+Azul: 00838F
+
+para chamar uma classe: .class
+para chamar algum id: #id
+chamando um elemento de classe específica: elemento.class
+
+*/
